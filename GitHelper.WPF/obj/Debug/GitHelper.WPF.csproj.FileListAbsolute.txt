@@ -1,0 +1,14 @@
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\bin\Debug\GitHelper.WPF.exe.config
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\bin\Debug\GitHelper.WPF.exe
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\bin\Debug\GitHelper.WPF.pdb
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\GitHelper.WPF.csprojResolveAssemblyReference.cache
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\MainWindow.g.cs
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\App.g.cs
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\GitHelper.WPF_MarkupCompile.cache
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\GitHelper.WPF_MarkupCompile.lref
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\MainWindow.baml
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\GitHelper.WPF.g.resources
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\GitHelper.WPF.Properties.Resources.resources
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\GitHelper.WPF.csproj.GenerateResource.Cache
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\GitHelper.WPF.exe
+Z:\GIT\Git Helper\GitHelper\GitHelper.WPF\obj\Debug\GitHelper.WPF.pdb
